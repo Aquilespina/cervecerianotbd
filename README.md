@@ -18,3 +18,13 @@ El repositrio es corresponde a un proyecto de interfaces graficas el cual tiene 
 
  3.2 Recuerda colocar estas opciones habilitadas ![Alt text](image.png)
 
+4. Deberas de abrir Xampp y activar 
+ 
+4.1 Apache
+
+
+4.2 MYSQL
+
+5. El archivo papeleria.sql contiene una pequeña base de datos 
+
+5.1 Usa la opcion importar en los ajuster de PHPMYADMIN para obtener la informacion de este proyecto papeleria
