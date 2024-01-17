@@ -12,3 +12,9 @@ El repositrio es corresponde a un proyecto de interfaces graficas el cual tiene 
 
 2.1 [Descargar Neatbeans](https://netbeans.apache.org/front/main/)
 
+3. Instalar XAMPP
+
+3.1 [Descargar XAMPP](https://www.apachefriends.org/es/index.html)
+
+ 3.2 Recuerda colocar estas opciones habilitadas ![Alt text](image.png)
+
