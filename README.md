@@ -24,7 +24,7 @@ El repositrio es corresponde a un proyecto de interfaces graficas el cual tiene 
 
 4.2 MYSQL
 
->.[!NOTE].
+> .[!NOTE].
 5. El archivo papeleria.sql contiene una pequeña base de datos 
 
 5.1 Usa la opcion importar en los ajuster de PHPMYADMIN para obtener la informacion de este proyecto papeleria
@@ -37,10 +37,12 @@ El repositrio es corresponde a un proyecto de interfaces graficas el cual tiene 
     -Inventario
     -Entradas 
     -Salida 
->.[!IMPORTANT].
+> .[!IMPORTANT].
 
 Las credenciales de acceso a el proyecto son las siguiente 
 
 Usuario: Usuario
 Contraseña: contraseña1
+
+7. El proyecto contiene las siguiente imagenes 
 
