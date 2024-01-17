@@ -1,4 +1,4 @@
-# Proyecto Neatbeans Interfaces Graficas (Cerveceria)
+# Proyecto Neatbeans Interfaces Graficas (Papeleria)
 
 El repositrio es corresponde a un proyecto de interfaces graficas el cual tiene la finalidad de plasmar un sistema de compra venta de un negocio local, en este caso con una cerveceria en donde se abordan temas de inventario, productos etc
 
